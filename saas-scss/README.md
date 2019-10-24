@@ -1,5 +1,6 @@
 # css-and-scss
-this is a project to learn css and scss. I really love this tutorial
+this is a project to learn css and scss. I really love this tutorial.
+Note : only exercise 6 is used for saas. So, skip other exercise folders. So, I only have commited exercise 6.
 
 ## linkedin url
 https://www.linkedin.com/learning/sharepoint-framework-for-developers-1-understanding-the-toolchain/what-is-sass?u=2092668
