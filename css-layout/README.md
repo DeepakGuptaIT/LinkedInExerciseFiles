@@ -1,21 +1,12 @@
-# css-and-scss
-this is a project to learn css and scss. I really love this tutorial.
-Note : only exercise 6 is used for saas. So, skip other exercise folders. So, I only have commited exercise 6.
+# Intro
+This is the css layout tutorial exercise file. This is really a good tutorial to learn different layouts in css. It also includes modern approch like flex-box and grid as well.
 
 ## linkedin url
-https://www.linkedin.com/learning/sharepoint-framework-for-developers-1-understanding-the-toolchain/what-is-sass?u=2092668
+https://www.linkedin.com/learning/css-layouts-from-float-to-flexbox-and-grid/welcome?u=2092668
 
-## saas official website
-https://sass-lang.com/
 
 # To Run the project
+This is a simple html project. node is not required.
 
-## install the dependencies
-run npm install to install whatever specified in package.json
-
-## convert scss to css
-run > npm run sass:build
-this will create dist folder having equivalent code of scss written.
-
-## run > npm start
-that's it
+# Exercise file structure
+The structure is pretty simple. The Links.pdf is very imp file to use.
